@@ -1,6 +1,4 @@
----
 # <h1 align="center" style="color:blue"><a href="https://dconco.dev">dconco.dev</a></h1>
----
 
 **Welcome to our official github repository**
 
